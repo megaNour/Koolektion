@@ -37,7 +37,7 @@ String[] remove(String[] input, int index);
 
 Les deux methodes sont publiques. La premiere permet simplement de faire une application console.
 
-### strategie
+### Strategie
 L'algorithme de suppression opte pour la copie de portions de tableau plutot que la verification systematique de conditions.
 Le resultat permet une utilisation plus rapide et plus evolutive.
 
