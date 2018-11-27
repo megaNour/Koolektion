@@ -1,0 +1,5 @@
+-------------Manuel de l'utilisateur-------------
+Cette application supprime l'une des chaines de characteres
+que vous entrez.
+Pour indiquer la chaine a supprimer, veuillez a la fin de
+votre entree, indiquer le numero de la ligne a supprimer.

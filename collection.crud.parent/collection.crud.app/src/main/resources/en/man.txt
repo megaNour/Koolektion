@@ -1,0 +1,4 @@
+-------------User Manual-------------
+This application deletes one of the strings you input.
+To do so, please indicate at the end of your input, the
+index of the string you want to delete.
